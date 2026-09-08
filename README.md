@@ -16,4 +16,4 @@ Built with React, a FastAPI OpenAPI REST API, and Postgres/PostGIS. Every displa
 
 ## Status
 
-Design phase. Implementation is tracked in GitHub issues (epics labeled `epic`).
+Design phase. Implementation is tracked in [GitHub issues](https://github.com/figuernd/ocean-app/issues): 13 epics (#1–#13, labeled `epic`) with 82 sub-issues, mapped in [docs/ROADMAP.md](docs/ROADMAP.md).
